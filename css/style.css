@@ -28,5 +28,5 @@ article > img {
     filter: grayscale(100%);
     margin-top: 1em;
 }
-ol :nth-child(even) {color: #dc33dc;}
+ol li:nth-child(even) {color: #dc33dc;}
 main > img {width: 100%;}
